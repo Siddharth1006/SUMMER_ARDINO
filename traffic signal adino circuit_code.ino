@@ -28,7 +28,7 @@ void setup()
 void loop()
 {
   	if(time_slot==1){
-    Serial.println("You have chosen time_slot:1-Light traffic(3am-6pm)");
+    Serial.println("You have chosen time_slot:1-Light traffic(3am-6am)");
     Serial.println(" ");
         digitalWrite(yellowLED1,HIGH);
       	digitalWrite(yellowLED2,HIGH);
