@@ -9,7 +9,7 @@ The following input can be given through TINKER CAD simulation and the LED's glo
 #REQUIREMENTS
 
 a) Online Simulation: Online Simulation Tool('TINKER CAD' in this case)
-b) Offline Simulation: Arduino UNO Board , Wires, RBG LED's , BreadBoard.
+b) Offline Simulation: Arduino UNO Board , Wires, RBG LED's , BreadBoard , Arduino Software
 
 Note: This is a simple Prototype. The circuit can be improved a lot. Will be glad to accept any changes if you want to contribute in improving it.    
 
